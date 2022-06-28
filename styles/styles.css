@@ -163,7 +163,13 @@ button:hover{
     }
     .content__title{
         margin-bottom: 20px;
+        font-size: 31px;
+        line-height: 31px;
     }
+
+
+    
+
 
     .content__text{
         margin-bottom: 25px;   
